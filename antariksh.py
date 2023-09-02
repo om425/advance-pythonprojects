@@ -124,17 +124,14 @@ while True:
 
     elif "open vs code" in query:
         speak("just a seconds")
-        codePath= "D:\\vs files\\Microsoft VS Code\\Code.exe"
+        codePath= "parth"
         os.startfile(codePath)
 
-    # elif "open notepad" in query:
-    #    speak("just a seconds")
-    #    codePath= "D:\\vs files\\Microsoft VS Code\\Code.exe"
-    #    os.startfile(codePath)
+ 
    
    
     elif "open browser" in query:
-        codepath= "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe"
+        codepath= "path"
         os.startfile(codepath)
 
     elif "temperature" in query:

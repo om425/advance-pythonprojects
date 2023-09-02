@@ -3,7 +3,7 @@ import json
 
 
 
-url = ('https://newsapi.org/v2/top-headlines?country=in&apiKey=63269cd315bd49838e9c987260d3f67b')
+url = ('https://newsapi.org/v2/top-headlines?country=in&apiKey=YOUR_KEY')
 
 r = requests.get(url)
 

@@ -6,7 +6,7 @@ import openai
                        
 
 
-openai.api_key = "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"
+openai.api_key = "paste your key"
 
 
 
